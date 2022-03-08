@@ -1,0 +1,4 @@
+#Tue Jan 21 14:32:16 EAT 2020
+base.0=G\:\\StudioProjects\\MFTest\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
